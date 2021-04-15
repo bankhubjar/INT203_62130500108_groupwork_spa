@@ -1,6 +1,6 @@
 <template>
   <div class="menu-grid">
-    <div v-for="menu in menus.menuItems" :key="menu.id">
+    <div v-for="menu in menus" :key="menu.id">
       <menucomponent :menu="menu"></menucomponent>
     </div>
   </div>
@@ -23,12 +23,14 @@ export default {
   methods: {
     async getMenu() {
       const response = await fetch(this.menuUrl);
-      const data = response.json();
+      const data = await response.json();
+      console.log(data);
       return data;
     },  
   },
   async created() {
     this.menus = await this.getMenu();
+    console.log(this.menus);
   },
 };
 </script>
