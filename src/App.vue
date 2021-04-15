@@ -24,7 +24,7 @@
 
 #nav {
   padding: 30px;
-  background-color: orange;
+  background-color: #F09D00;
   display: flex;
   justify-content: space-evenly;
   position: sticky;
@@ -34,10 +34,10 @@
 #nav a {
   font-weight: bold;
   font-size: 25px;
-  color: #2c3e50;
+  color: #55A5FF;
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #22259F;
 }
 </style>
