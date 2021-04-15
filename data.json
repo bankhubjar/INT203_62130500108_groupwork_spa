@@ -1,0 +1,897 @@
+{
+
+      "menuItems": [
+        {
+          "id": 323386,
+          "title": "Premium Southwest Salad (w/o chicken)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323386-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323382,
+          "title": "Premium Bacon Ranch Salad (w/o chicken)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323382-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323387,
+          "title": "Premium Southwest Salad w/ Grilled Chicken",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323387-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423185,
+          "title": "Crispy Chicken Premium Southwest Salad w/ Grilled Chicken",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423185-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323383,
+          "title": "Premium Bacon Ranch Salad w/ Grilled Chicken",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323383-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423501,
+          "title": "Premium Bacon Ranch Salad w/ Buttermilk Crispy Chicken",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423501-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423507,
+          "title": "Premium Southwest Salad w/ Buttermilk Crispy Chicken",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423507-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423412,
+          "title": "Mighty Wings",
+          "restaurantChain": "McDonald's",
+          "servingSize": "10 piece",
+          "readableServingSize": "10 piece",
+          "image": "https://images.spoonacular.com/file/wximages/423412-312x231.jpg",
+          "imageType": "jpg"
+        },
+        {
+          "id": 248475,
+          "title": "Big Mac",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248475-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 311279,
+          "title": "Sausage Biscuit",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/311279-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248582,
+          "title": "Sausage Burrito",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248582-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248479,
+          "title": "Double Cheeseburger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248479-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423077,
+          "title": "Bacon Double Cheeseburger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423077-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248592,
+          "title": "Steak, Egg & Cheese Bagel",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248592-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248575,
+          "title": "Ranch Snack Wrap (Grilled)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248575-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 295678,
+          "title": "Quarter Pounder w/ Cheese",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/295678-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423458,
+          "title": "Old Bay Filet-O-Fish Sandwich",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423458-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423528,
+          "title": "Southern Style Chicken Biscuit",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423528-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423526,
+          "title": "Sausage Scratch Biscuit w/ Egg",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423526-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423120,
+          "title": "Buttermilk Crispy Chicken Tenders",
+          "restaurantChain": "McDonald's",
+          "servingSize": "3 piece",
+          "readableServingSize": "3 piece",
+          "image": "https://images.spoonacular.com/file/wximages/423120-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423222,
+          "title": "Double Grilled Onion Cheddar Burger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423222-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423512,
+          "title": "Ranch Snack Wrap (Buttermilk Crispy)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423512-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423571,
+          "title": "Steakhouse Sirloin Third Pound Burger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423571-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423382,
+          "title": "Maple Bacon Dijon Burger on Artisan Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423382-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423483,
+          "title": "Pico Guacamole Burger on Sesame Seed Bun",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423483-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423383,
+          "title": "Maple Bacon Dijon Burger on Potato Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423383-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423128,
+          "title": "Cheddar Bacon Onion Grilled Chicken Sandwich",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423128-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423384,
+          "title": "Maple Bacon Dijon Burger on Sesame Seed Bun",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423384-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 295306,
+          "title": "Double Quarter Pounder w/ Cheese",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/295306-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423486,
+          "title": "Pico Guacamole Buttermilk Crispy Chicken Sandwich on Artisan Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423486-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423487,
+          "title": "Pico Guacamole Grilled Chicken Sandwich on Potato Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423487-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423480,
+          "title": "Pico Guacamole Artisan Grilled Chicken Sandwich on Artisan Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423480-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423580,
+          "title": "Sweet BBQ Bacon Burger on Artisan Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423580-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423581,
+          "title": "Sweet BBQ Bacon Burger on Sesame Seed Bun",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423581-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423568,
+          "title": "Steak Egg and Cheese Bagel w/ Slivered Onions",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423568-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423482,
+          "title": "Pico Guacamole Burger on Potato Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423482-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423481,
+          "title": "Pico Guacamole Burger on Artisan Roll",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423481-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323183,
+          "title": "Bacon Clubhouse Burger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323183-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248054,
+          "title": "Cinnamon Melts",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248054-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323181,
+          "title": "Artisan Grilled Chicken Sandwich",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323181-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423298,
+          "title": "Green Chili Double Cheeseburger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423298-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323188,
+          "title": "Premium McWrap Chicken Sweet Chili (Grilled)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323188-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423119,
+          "title": "Buttermilk Crispy Chicken Sandwich",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423119-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423510,
+          "title": "Quarter Pounder Cheddar Bacon Onion",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423510-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423506,
+          "title": "Premium McWrap Chicken Sweet Chili (Buttermilk Crispy)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423506-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423567,
+          "title": "Steak and Egg Biscuit",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423567-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423509,
+          "title": "Quarter Pounder",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423509-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423183,
+          "title": "Crab Meat Sandwich",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423183-312x231.jpg",
+          "imageType": "jpg"
+        },
+        {
+          "id": 423108,
+          "title": "Biscuit Sausage Egg and Cheese",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423108-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423186,
+          "title": "Daily Double Burger Mustard Style",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423186-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423511,
+          "title": "Ranch Chicken Snack Wrap (Crispy)",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423511-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248557,
+          "title": "Mac Snack Wrap",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248557-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248596,
+          "title": "Steak, Egg & Cheese McMuffin",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248596-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423570,
+          "title": "Steak, Egg & Cheese Biscuit",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423570-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423522,
+          "title": "Sausage Biscuit w/ Egg",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423522-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423523,
+          "title": "Sausage Biscuit w/ Egg Whites",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423523-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248476,
+          "title": "Cheeseburger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248476-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248482,
+          "title": "Hamburger",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248482-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248489,
+          "title": "Hot Fudge Sundae",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248489-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 311236,
+          "title": "Chocolate Chip Cookie",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/311236-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423082,
+          "title": "Baked Cherry and Creme Pie",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423082-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423278,
+          "title": "Fruit 'n Yogurt Parfait w/ Chobani",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423278-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248488,
+          "title": "Hot Caramel Sundae",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248488-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 311277,
+          "title": "Oatmeal Raisin Cookie",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/311277-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423333,
+          "title": "Hot Fudge Sundae Eotf",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423333-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323201,
+          "title": "Baked Hot Apple Pie",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323201-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423577,
+          "title": "Strawberry Sundae Eotf",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423577-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 323392,
+          "title": "Go-Gurt Strawberry Flavored Low Fat Yogurt Tube",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/323392-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423277,
+          "title": "Fruit 'N Yogurt Parfait",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Large",
+          "readableServingSize": "Large",
+          "image": "https://images.spoonacular.com/file/wximages/423277-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248519,
+          "title": "Fruit 'n Yogurt Parfait",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248519-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248505,
+          "title": "Strawberry Sundae",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248505-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423271,
+          "title": "Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Kids",
+          "readableServingSize": "Kids",
+          "image": "https://images.spoonacular.com/file/wximages/423271-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 311275,
+          "title": "Hash Browns",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/311275-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423452,
+          "title": "Mozzarella Sticks",
+          "restaurantChain": "McDonald's",
+          "servingSize": "3 Piece",
+          "readableServingSize": "3 piece",
+          "image": "https://images.spoonacular.com/file/wximages/423452-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423295,
+          "title": "Gilroy Garlic Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Large",
+          "readableServingSize": "Large",
+          "image": "https://images.spoonacular.com/file/wximages/423295-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423296,
+          "title": "Gilroy Garlic Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/423296-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 274451,
+          "title": "French Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/274451-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 274450,
+          "title": "French Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/274450-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 274449,
+          "title": "French Fries",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Large",
+          "readableServingSize": "Large",
+          "image": "https://images.spoonacular.com/file/wximages/274449-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423373,
+          "title": "Latte",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423373-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248520,
+          "title": "Hotcakes",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248520-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423349,
+          "title": "Iced Coffee",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/423349-312x231.jpg",
+          "imageType": "jpg"
+        },
+        {
+          "id": 423348,
+          "title": "Iced Coffee",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Large",
+          "readableServingSize": "Large",
+          "image": "https://images.spoonacular.com/file/wximages/423348-312x231.jpg",
+          "imageType": "jpg"
+        },
+        {
+          "id": 423347,
+          "title": "Iced Coffee",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423347-312x231.jpg",
+          "imageType": "jpg"
+        },
+        {
+          "id": 248053,
+          "title": "Apple Slices",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248053-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423332,
+          "title": "Hot Chocolate",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423332-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 306963,
+          "title": "Vanilla Shake",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/306963-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 306962,
+          "title": "Vanilla Shake",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/306962-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423444,
+          "title": "Mocha Caramel",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423444-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 277334,
+          "title": "Strawberry Shake",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/277334-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 277333,
+          "title": "Strawberry Shake",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/277333-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423343,
+          "title": "Iced Caramel Mocha",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423343-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 248517,
+          "title": "Fruit & Maple Oatmeal",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/248517-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423575,
+          "title": "Strawberry Shake Eotf",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423575-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423574,
+          "title": "Strawberry Shake Eotf",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Medium",
+          "readableServingSize": "Medium",
+          "image": "https://images.spoonacular.com/file/wximages/423574-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423572,
+          "title": "Strawberry Banana Smoothie",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423572-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423069,
+          "title": "1% Low Fat Milk Jug California",
+          "restaurantChain": "McDonald's",
+          "servingSize": null,
+          "readableServingSize": null,
+          "image": "https://images.spoonacular.com/file/wximages/423069-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423114,
+          "title": "Blueberry Pomegranate Smoothie",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423114-312x231.png",
+          "imageType": "png"
+        },
+        {
+          "id": 423361,
+          "title": "Iced Coffee Sugar Free French Vanilla",
+          "restaurantChain": "McDonald's",
+          "servingSize": "Small",
+          "readableServingSize": "Small",
+          "image": "https://images.spoonacular.com/file/wximages/423361-312x231.jpg",
+          "imageType": "jpg"
+        }
+      ]
+
+}
