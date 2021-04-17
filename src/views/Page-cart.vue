@@ -1,10 +1,12 @@
 <template>
-  <div class="" v-for="item in carts" :key="item.id">
+<Base-Card>
+  <div class="cart-display" v-for="item in carts" :key="item.id">
     <img class="MenuPic" :src="item.img" />
     <p class="title">{{ item.title }}</p>
     <p class="title">{{ item.price }}</p>
     <p class="title">{{ item.quantity }}</p>
   </div>
+</Base-Card>
 </template>
 
 <script>
@@ -15,14 +17,14 @@ export default {
       cartUrl: "http://localhost:5000/cart",
       carts: [],
       delivery_fee: 5,
-    };
+    }
   },
   methods: {
     async getdata(url) {
       const response = await fetch(url);
       const data = await response.json();
       return data;
-    },
+    }, 
   },
   computed: {
     totalprice() {
@@ -43,4 +45,7 @@ export default {
 </script>
 
 <style scoped>
+.cart-display{
+  display: flex;
+}
 </style>

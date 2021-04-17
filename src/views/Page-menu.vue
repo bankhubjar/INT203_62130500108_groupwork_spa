@@ -1,5 +1,5 @@
 <template>
-  <itemcart :numberofitem="itemincarts" />
+  <item-cart :numberofitem="itemincarts" />
   <div class="menu-grid">
     <div v-for="menu in menus" :key="menu.id">
       <menucomponent :menu="menu" @menuinfo="additemtocart"></menucomponent>
@@ -9,12 +9,10 @@
 
 <script>
 import menucomponent from "../components/UI/Menu-components";
-import itemcart from "../components/UI/Itemcart-component";
 
 export default {
   components: {
     menucomponent,
-    itemcart,
   },
   data() {
     return {
@@ -90,7 +88,7 @@ export default {
 <style>
 .menu-grid {
   display: grid;
-  gap: 1rem;
+  gap: 2rem;
   grid-template-columns: 1fr 1fr 1fr;
 }
 </style>

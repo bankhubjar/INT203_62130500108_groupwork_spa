@@ -1,15 +1,17 @@
 <template>
+<Base-Card>    
     <div class="MenuGrid">
         <img class="MenuPic" :src="menu.image"/>
         <p class="title">{{menu.title}}</p>
         <p class="price">$ {{calprice}}</p>
         <button class="button" v-on:click="returntitle">Add to Cart</button>
     </div>
+</Base-Card>
 </template>
 
 <style scoped>
 .MenuGrid {
-  color: white;
+  color: rgb(10, 0, 68);
   font-size: 30px;
 }
 .MenuPic {
@@ -30,7 +32,6 @@
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
-
 .button:hover {background-color: #ED570D}
 
 .button:active {
