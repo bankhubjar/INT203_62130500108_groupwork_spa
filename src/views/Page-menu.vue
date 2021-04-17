@@ -86,9 +86,18 @@ export default {
 </script>
 
 <style>
+@media all and (max-width: 1050px) {
 .menu-grid {
   display: grid;
   gap: 2rem;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
 }
+}
+@media all and (min-width: 1050px) {
+.menu-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(4, 1fr);
+}}
+
 </style>

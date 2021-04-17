@@ -23,12 +23,14 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 25px;
   background-color: #F09D00;
   display: flex;
   justify-content: space-evenly;
   position: sticky;
   top: 0;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 #nav a {

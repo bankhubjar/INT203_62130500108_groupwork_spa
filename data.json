@@ -885,10 +885,31 @@
   ],
   "cart": [
     {
-      "id": 323382,
-      "img": "https://images.spoonacular.com/file/wximages/323382-312x231.png",
-      "title": "Premium Bacon Ranch Salad (w/o chicken)",
-      "price": 39,
+      "id": 248557,
+      "img": "https://images.spoonacular.com/file/wximages/248557-312x231.png",
+      "title": "Mac Snack Wrap",
+      "price": 14,
+      "quantity": 7
+    },
+    {
+      "id": 248596,
+      "img": "https://images.spoonacular.com/file/wximages/248596-312x231.png",
+      "title": "Steak, Egg & Cheese McMuffin",
+      "price": 28,
+      "quantity": 3
+    },
+    {
+      "id": 423511,
+      "img": "https://images.spoonacular.com/file/wximages/423511-312x231.png",
+      "title": "Ranch Chicken Snack Wrap (Crispy)",
+      "price": 33,
+      "quantity": 3
+    },
+    {
+      "id": 423186,
+      "img": "https://images.spoonacular.com/file/wximages/423186-312x231.png",
+      "title": "Daily Double Burger Mustard Style",
+      "price": 33,
       "quantity": 5
     },
     {
@@ -896,28 +917,7 @@
       "img": "https://images.spoonacular.com/file/wximages/248475-312x231.png",
       "title": "Big Mac",
       "price": 7,
-      "quantity": 5
-    },
-    {
-      "id": 311279,
-      "img": "https://images.spoonacular.com/file/wximages/311279-312x231.png",
-      "title": "Sausage Biscuit",
-      "price": 15,
-      "quantity": 3
-    },
-    {
-      "id": 423077,
-      "img": "https://images.spoonacular.com/file/wximages/423077-312x231.png",
-      "title": "Bacon Double Cheeseburger",
-      "price": 25,
-      "quantity": 2
-    },
-    {
-      "id": 248479,
-      "img": "https://images.spoonacular.com/file/wximages/248479-312x231.png",
-      "title": "Double Cheeseburger",
-      "price": 19,
-      "quantity": 1
+      "quantity": 7
     }
   ]
 }

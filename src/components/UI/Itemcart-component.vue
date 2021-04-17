@@ -76,7 +76,7 @@ svg {
 	bottom: 10px;
 	margin-left: auto;
 	margin-right: auto;
-    fill: white;
+  fill: rgb(19, 2, 68);
 }
 #triggerEl {
 	margin: 0 auto;
